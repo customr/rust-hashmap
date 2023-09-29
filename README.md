@@ -1,7 +1,6 @@
 # HashMap Implementation in Rust
 
-Purely for educational and recreational purposes. For real world production please use [std::collections::HashMap](https://doc.rust-lang.org/std/collections/struct.HashMap.html).
-
+Purely for educational and recreational purposes
 
 ## References
 
